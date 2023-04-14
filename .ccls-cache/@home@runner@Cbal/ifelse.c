@@ -9,7 +9,7 @@
 //     printf("B\n");  //조건문이 거짓이면 실행
 //   printf("C\n");
 
-//   if (a > 8) printf("D/n");  //조건문이 참이면 실행
+//   if (a > 8) printf("D\n");  //조건문이 참이면 실행
 
 //   else printf("E\n");  //조건문이 거짓이면 실행
 

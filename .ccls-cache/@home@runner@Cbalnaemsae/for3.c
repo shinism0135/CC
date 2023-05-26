@@ -1,11 +1,11 @@
-main(){
-  int i, j;
-  printf("1에서 9사이의 숫자를 입력하세요\n");
-  scanf("%d", &i);
-
-  for(j=1; j<10; j++){
-    for(i=1; i<10; i++){
-      printf("%d * %d = %d\n", j, i, i*j);
-    }
-  }
-}
+// #include <stdio.h>
+// main(){
+//   int i;
+//   int sum=0;
+  
+//   for (i=1; i<=2019; i++){
+//     sum = sum + i;
+// }
+   
+//   printf("1에서 2019까지의 합은 %d\n", sum);
+// }
